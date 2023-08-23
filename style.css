@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+    color: brown;
+}
+.box {
+    border: 2px solid rgb(40, 230, 189);
+    width:40%;
+    height:220px;
+    display:inline-table;
+    margin-left: 8%;   
+    border-radius: 10px; 
+    background-color: rgb(194, 183, 35);
+}
+h2{
+    margin-left: 25px;
+}
+ol{
+    font-size: small;
+}
